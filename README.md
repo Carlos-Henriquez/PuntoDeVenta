@@ -1,6 +1,7 @@
 # PuntoDeVenta
 
 Integrantes del grupo:
+
 Randy D. Baldayaque Tavares 2020-9826
 
 Martha Altagracia Espinal Espinal 2021-0894
