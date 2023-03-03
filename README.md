@@ -1,5 +1,7 @@
 # PuntoDeVenta
 
+Programa funcional y documento PDF con los errores y las soluciones encontradas.
+
 Integrantes del grupo:
 
 Randy D. Baldayaque Tavares 2020-9826
