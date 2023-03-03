@@ -1,7 +1,6 @@
 # PuntoDeVenta
 
-CON NOSOTROS NO JAVA
-
+Integrantes del grupo:
 Randy D. Baldayaque Tavares 2020-9826
 
 Martha Altagracia Espinal Espinal 2021-0894
@@ -9,3 +8,5 @@ Martha Altagracia Espinal Espinal 2021-0894
 Miguel Santos 2021-0645
 
 Carlos Henríquez 2020-10203
+
+(CON NOSOTROS NO JAVA!)
